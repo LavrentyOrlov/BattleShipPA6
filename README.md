@@ -19,7 +19,7 @@ the computer. This program's capabilities include processing user input in the t
 
 ## How to Run
 1. Clone the repository on your device's command-line interface:
-- ```git clone https://github.com/lavrentyorlov/BattleShipPA6.git```
+- ```git clone https://github.com/LavrentyOrlov/BattleShipPA6.git```
 2. Open the project in Visual Studio.
 3. Build the solution.
 4. Run the program.
